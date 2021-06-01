@@ -28,9 +28,6 @@ class Sensores{
         todo.add(save);
       }
     }
-    
-  
-
   void mostrar() {
   print("Se muestran todos los datos agregados: ");
   print(todo);
